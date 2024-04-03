@@ -1,0 +1,6 @@
+*.log
+*.tar
+*.html
+/.metadata/
+/.recommenders/
+.meta
